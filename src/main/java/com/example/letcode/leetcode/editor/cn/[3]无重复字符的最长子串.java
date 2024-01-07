@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class SolutionStringLength {
     public int lengthOfLongestSubstring(String s) {
         HashMap<Character, Integer> window = new HashMap<>();
 
